@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Retrieve & decrypt your age-encrypted data exports from your own S3 bucket.",
   "homepage": "https://github.com/JoschaP/occ-companion",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/JoschaP/occ-companion/releases/download/v0.3.0/OCC.Companion_0.3.0_x64-setup.exe",
-      "hash": "28a9b5d314c07363e3838fa90873caeab64fc64036d00592c116eed24bb96093"
+      "url": "https://github.com/JoschaP/occ-companion/releases/download/v0.4.0/OCC.Companion_0.4.0_x64-setup.exe",
+      "hash": "5577b6d1c836e64f401a20f60c260188a2c84ab2fd53930c8406e1eed029105d"
     }
   },
   "installer": {
