@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Retrieve & decrypt your age-encrypted data exports from your own S3 bucket.",
   "homepage": "https://github.com/JoschaP/occ-secure-exports",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/JoschaP/occ-secure-exports/releases/download/v0.6.0/OCC.Secure.Exports_0.6.0_x64-setup.exe",
-      "hash": "3cfc6b02ecd0e0059a83fb873bf7dcaf66d8a5a7ca1d8bc4d5388d797737889c"
+      "url": "https://github.com/JoschaP/occ-secure-exports/releases/download/v0.7.0/OCC.Secure.Exports_0.7.0_x64-setup.exe",
+      "hash": "58c28848c9b6a10af75f1fad9cffd77343aba42454c7a8105ae1d162e6b3e12b"
     }
   },
   "installer": {
